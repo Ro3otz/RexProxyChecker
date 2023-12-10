@@ -1,5 +1,4 @@
 import requests
-import socket
 from colorama import Fore
 def check_proxy(ip, port):
     proxies = {
